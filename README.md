@@ -1,1 +1,1 @@
-# creating-a-new-angular-project
+# new-angular-project
